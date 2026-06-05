@@ -1,0 +1,9 @@
+[submodule "bare-platformer"]
+	path = bare-platformer
+	url = git@github.com:bare-engine/bare-platformer.git
+[submodule "bare-shmup"]
+	path = bare-shmup
+	url = git@github.com:bare-engine/bare-shmup.git
+[submodule "bare-rpg"]
+	path = bare-rpg
+	url = git@github.com:bare-engine/bare-rpg.git
